@@ -1,0 +1,20 @@
+
+table,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  max-width: 250px;
+    margin: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+body{
+   
+    text-align: center;
+    
+}  
+
+
+
+
